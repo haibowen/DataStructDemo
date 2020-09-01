@@ -1,0 +1,4 @@
+include ':mylibrary'
+include ':lib'
+include ':app'
+rootProject.name = "MyDemoDataStruct"
